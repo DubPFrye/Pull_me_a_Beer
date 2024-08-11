@@ -1,6 +1,8 @@
 # Pull_me_a_Beer, 3D Printed Beer Shotgun Device
 This is a project to develop a device that can perform a beer shotgun operation.
 
+This mechanical device is being developed using Fusion360.
+
  The device shall be all or mostly 3D printed.
 
 The device shall perform two operations successively:
