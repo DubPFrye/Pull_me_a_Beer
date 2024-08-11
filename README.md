@@ -1,5 +1,4 @@
-# Pull_me_a_Beer
-3D Printed Beer Shotgun Device
+# Pull_me_a_Beer, 3D Printed Beer Shotgun Device
 This is a project to develop a device that can perform a beer shotgun operation.
 
  The device shall be all or mostly 3D printed.
